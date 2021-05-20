@@ -17,3 +17,8 @@ Second dataset Dsecond is formed by eight sensor and thirty-two
 features. Third dataset Dthird formed by all nine relevant sensors and
 thirty-six features, differ from previous Dsecond only for speed
 derived features.
+
+Collaborators:
+Brain Castro: bcastr4@uic.edu
+Isay Garcia: igarci27@uic.edu
+Joshua Ramirez:  jramirez76@uic.edu
