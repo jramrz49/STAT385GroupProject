@@ -1,4 +1,4 @@
-# STAT385GroupProject
+# STAT385 Group Project
 
 In this final project, we will work on a transportation mode detection
 data set that was downloaded from the following link:
